@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deand\\MSSA\\MathEx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5936B0F7-5068-49A3-A30B-9F598609128C}|MathEx\\MathEx.csproj|C:\\Users\\deand\\MSSA\\MathEx\\mathex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5936B0F7-5068-49A3-A30B-9F598609128C}|MathEx\\MathEx.csproj|solutionrelative:mathex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5936B0F7-5068-49A3-A30B-9F598609128C}|MathEx\\MathEx.csproj|c:\\users\\deand\\mssa\\mathex\\mathex\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5936B0F7-5068-49A3-A30B-9F598609128C}|MathEx\\MathEx.csproj|solutionrelative:mathex\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Math.cs",
+              "DocumentMoniker": "C:\\Users\\deand\\MSSA\\MathEx\\MathEx\\Math.cs",
+              "RelativeDocumentMoniker": "MathEx\\Math.cs",
+              "ToolTip": "C:\\Users\\deand\\MSSA\\MathEx\\MathEx\\Math.cs",
+              "RelativeToolTip": "MathEx\\Math.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAA9wAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T16:18:57.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\deand\\MSSA\\MathEx\\MathEx\\Program.cs",
+              "RelativeDocumentMoniker": "MathEx\\Program.cs",
+              "ToolTip": "C:\\Users\\deand\\MSSA\\MathEx\\MathEx\\Program.cs",
+              "RelativeToolTip": "MathEx\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:43:40.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

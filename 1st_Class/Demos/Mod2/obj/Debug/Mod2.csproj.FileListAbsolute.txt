@@ -1,0 +1,7 @@
+C:\Users\deand\MSSA\Demos\Mod2\bin\Debug\Mod2.exe.config
+C:\Users\deand\MSSA\Demos\Mod2\bin\Debug\Mod2.exe
+C:\Users\deand\MSSA\Demos\Mod2\bin\Debug\Mod2.pdb
+C:\Users\deand\MSSA\Demos\Mod2\obj\Debug\Mod2.csproj.AssemblyReference.cache
+C:\Users\deand\MSSA\Demos\Mod2\obj\Debug\Mod2.csproj.CoreCompileInputs.cache
+C:\Users\deand\MSSA\Demos\Mod2\obj\Debug\Mod2.exe
+C:\Users\deand\MSSA\Demos\Mod2\obj\Debug\Mod2.pdb

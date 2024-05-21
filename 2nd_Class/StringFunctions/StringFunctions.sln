@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringFunctions", "StringFunctions\StringFunctions.csproj", "{CFDDF640-83B0-43CA-ADC0-E940A0CFADBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFDDF640-83B0-43CA-ADC0-E940A0CFADBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFDDF640-83B0-43CA-ADC0-E940A0CFADBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFDDF640-83B0-43CA-ADC0-E940A0CFADBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFDDF640-83B0-43CA-ADC0-E940A0CFADBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5458728-1844-469C-B170-9ADC2B6B8DB5}
+	EndGlobalSection
+EndGlobal

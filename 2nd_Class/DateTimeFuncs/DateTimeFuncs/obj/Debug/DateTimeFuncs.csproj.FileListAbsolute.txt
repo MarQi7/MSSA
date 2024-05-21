@@ -1,0 +1,7 @@
+C:\Users\deand\MSSA\2nd_Class\DateTimeFuncs\DateTimeFuncs\bin\Debug\DateTimeFuncs.exe.config
+C:\Users\deand\MSSA\2nd_Class\DateTimeFuncs\DateTimeFuncs\bin\Debug\DateTimeFuncs.exe
+C:\Users\deand\MSSA\2nd_Class\DateTimeFuncs\DateTimeFuncs\bin\Debug\DateTimeFuncs.pdb
+C:\Users\deand\MSSA\2nd_Class\DateTimeFuncs\DateTimeFuncs\obj\Debug\DateTimeFuncs.csproj.AssemblyReference.cache
+C:\Users\deand\MSSA\2nd_Class\DateTimeFuncs\DateTimeFuncs\obj\Debug\DateTimeFuncs.csproj.CoreCompileInputs.cache
+C:\Users\deand\MSSA\2nd_Class\DateTimeFuncs\DateTimeFuncs\obj\Debug\DateTimeFuncs.exe
+C:\Users\deand\MSSA\2nd_Class\DateTimeFuncs\DateTimeFuncs\obj\Debug\DateTimeFuncs.pdb

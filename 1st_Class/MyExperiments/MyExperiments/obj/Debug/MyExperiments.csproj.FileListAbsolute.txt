@@ -1,0 +1,7 @@
+C:\Users\deand\MSSA\MyExperiments\MyExperiments\bin\Debug\MyExperiments.exe.config
+C:\Users\deand\MSSA\MyExperiments\MyExperiments\bin\Debug\MyExperiments.exe
+C:\Users\deand\MSSA\MyExperiments\MyExperiments\bin\Debug\MyExperiments.pdb
+C:\Users\deand\MSSA\MyExperiments\MyExperiments\obj\Debug\MyExperiments.csproj.AssemblyReference.cache
+C:\Users\deand\MSSA\MyExperiments\MyExperiments\obj\Debug\MyExperiments.csproj.CoreCompileInputs.cache
+C:\Users\deand\MSSA\MyExperiments\MyExperiments\obj\Debug\MyExperiments.exe
+C:\Users\deand\MSSA\MyExperiments\MyExperiments\obj\Debug\MyExperiments.pdb

@@ -1,0 +1,7 @@
+C:\Users\deand\MSSA\ChallengeLabs\ChallengeLabs\bin\Debug\ChallengeLabs.exe.config
+C:\Users\deand\MSSA\ChallengeLabs\ChallengeLabs\bin\Debug\ChallengeLabs.exe
+C:\Users\deand\MSSA\ChallengeLabs\ChallengeLabs\bin\Debug\ChallengeLabs.pdb
+C:\Users\deand\MSSA\ChallengeLabs\ChallengeLabs\obj\Debug\ChallengeLabs.csproj.AssemblyReference.cache
+C:\Users\deand\MSSA\ChallengeLabs\ChallengeLabs\obj\Debug\ChallengeLabs.csproj.CoreCompileInputs.cache
+C:\Users\deand\MSSA\ChallengeLabs\ChallengeLabs\obj\Debug\ChallengeLabs.exe
+C:\Users\deand\MSSA\ChallengeLabs\ChallengeLabs\obj\Debug\ChallengeLabs.pdb

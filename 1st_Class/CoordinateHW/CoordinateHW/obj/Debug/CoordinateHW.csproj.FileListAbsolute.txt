@@ -1,0 +1,7 @@
+C:\Users\deand\MSSA\CoordinateHW\CoordinateHW\bin\Debug\CoordinateHW.exe.config
+C:\Users\deand\MSSA\CoordinateHW\CoordinateHW\bin\Debug\CoordinateHW.exe
+C:\Users\deand\MSSA\CoordinateHW\CoordinateHW\bin\Debug\CoordinateHW.pdb
+C:\Users\deand\MSSA\CoordinateHW\CoordinateHW\obj\Debug\CoordinateHW.csproj.AssemblyReference.cache
+C:\Users\deand\MSSA\CoordinateHW\CoordinateHW\obj\Debug\CoordinateHW.csproj.CoreCompileInputs.cache
+C:\Users\deand\MSSA\CoordinateHW\CoordinateHW\obj\Debug\CoordinateHW.exe
+C:\Users\deand\MSSA\CoordinateHW\CoordinateHW\obj\Debug\CoordinateHW.pdb

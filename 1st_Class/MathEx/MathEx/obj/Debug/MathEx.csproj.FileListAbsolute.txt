@@ -1,0 +1,7 @@
+C:\Users\deand\MSSA\MathEx\MathEx\bin\Debug\MathEx.exe.config
+C:\Users\deand\MSSA\MathEx\MathEx\bin\Debug\MathEx.exe
+C:\Users\deand\MSSA\MathEx\MathEx\bin\Debug\MathEx.pdb
+C:\Users\deand\MSSA\MathEx\MathEx\obj\Debug\MathEx.csproj.AssemblyReference.cache
+C:\Users\deand\MSSA\MathEx\MathEx\obj\Debug\MathEx.csproj.CoreCompileInputs.cache
+C:\Users\deand\MSSA\MathEx\MathEx\obj\Debug\MathEx.exe
+C:\Users\deand\MSSA\MathEx\MathEx\obj\Debug\MathEx.pdb

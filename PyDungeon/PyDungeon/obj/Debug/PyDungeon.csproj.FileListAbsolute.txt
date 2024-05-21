@@ -1,0 +1,7 @@
+C:\Users\deand\MSSA\PyDungeon\PyDungeon\obj\Debug\PyDungeon.csproj.AssemblyReference.cache
+C:\Users\deand\MSSA\PyDungeon\PyDungeon\obj\Debug\PyDungeon.csproj.CoreCompileInputs.cache
+C:\Users\deand\MSSA\PyDungeon\PyDungeon\bin\Debug\PyDungeon.exe.config
+C:\Users\deand\MSSA\PyDungeon\PyDungeon\bin\Debug\PyDungeon.exe
+C:\Users\deand\MSSA\PyDungeon\PyDungeon\bin\Debug\PyDungeon.pdb
+C:\Users\deand\MSSA\PyDungeon\PyDungeon\obj\Debug\PyDungeon.exe
+C:\Users\deand\MSSA\PyDungeon\PyDungeon\obj\Debug\PyDungeon.pdb

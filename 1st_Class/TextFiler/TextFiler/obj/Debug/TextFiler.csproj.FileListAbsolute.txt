@@ -1,0 +1,7 @@
+C:\Users\deand\MSSA\TextFiler\TextFiler\bin\Debug\TextFiler.exe.config
+C:\Users\deand\MSSA\TextFiler\TextFiler\bin\Debug\TextFiler.exe
+C:\Users\deand\MSSA\TextFiler\TextFiler\bin\Debug\TextFiler.pdb
+C:\Users\deand\MSSA\TextFiler\TextFiler\obj\Debug\TextFiler.csproj.AssemblyReference.cache
+C:\Users\deand\MSSA\TextFiler\TextFiler\obj\Debug\TextFiler.csproj.CoreCompileInputs.cache
+C:\Users\deand\MSSA\TextFiler\TextFiler\obj\Debug\TextFiler.exe
+C:\Users\deand\MSSA\TextFiler\TextFiler\obj\Debug\TextFiler.pdb

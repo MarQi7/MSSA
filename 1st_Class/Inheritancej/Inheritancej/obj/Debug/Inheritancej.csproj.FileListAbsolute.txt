@@ -1,0 +1,7 @@
+C:\Users\deand\MSSA\Inheritancej\Inheritancej\bin\Debug\Inheritancej.exe.config
+C:\Users\deand\MSSA\Inheritancej\Inheritancej\bin\Debug\Inheritancej.exe
+C:\Users\deand\MSSA\Inheritancej\Inheritancej\bin\Debug\Inheritancej.pdb
+C:\Users\deand\MSSA\Inheritancej\Inheritancej\obj\Debug\Inheritancej.csproj.AssemblyReference.cache
+C:\Users\deand\MSSA\Inheritancej\Inheritancej\obj\Debug\Inheritancej.csproj.CoreCompileInputs.cache
+C:\Users\deand\MSSA\Inheritancej\Inheritancej\obj\Debug\Inheritancej.exe
+C:\Users\deand\MSSA\Inheritancej\Inheritancej\obj\Debug\Inheritancej.pdb
