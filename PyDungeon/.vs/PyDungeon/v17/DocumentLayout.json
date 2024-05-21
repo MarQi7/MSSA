@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "PyDungeon\\ItemGenerator.cs",
               "ToolTip": "C:\\Users\\deand\\MSSA\\PyDungeon\\PyDungeon\\ItemGenerator.cs",
               "RelativeToolTip": "PyDungeon\\ItemGenerator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T19:38:57.37Z",
               "IsPinned": true,
@@ -61,12 +61,15 @@
               "ViewState": "AQIAAEkAAAAAAAAAAAAIwJ4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T19:34:17.539Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
@@ -78,12 +81,7 @@
               "RelativeToolTip": "PyDungeon\\ClassAttributeGen.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T19:37:31.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "WhenOpened": "2024-05-13T19:37:31.915Z"
             },
             {
               "$type": "Document",
@@ -95,8 +93,7 @@
               "RelativeToolTip": "PyDungeon\\Dungeon.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T19:39:10.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T19:39:10.238Z"
             },
             {
               "$type": "Document",
@@ -108,8 +105,7 @@
               "RelativeToolTip": "PyDungeon\\FileReader.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T18:35:01.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T18:35:01.649Z"
             },
             {
               "$type": "Document",
@@ -121,8 +117,7 @@
               "RelativeToolTip": "PyDungeon\\NewGame.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T15:23:59.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T15:23:59.289Z"
             }
           ]
         }
