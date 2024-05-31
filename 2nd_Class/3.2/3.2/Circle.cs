@@ -21,6 +21,7 @@ namespace _3._2
         }
         public double CalculateArea()
         {
+            
             this.area = Math.PI * this.Radius * this.Radius;
             return this.area;
         }
@@ -29,6 +30,7 @@ namespace _3._2
             Circle cnew = new Circle();
             cnew.area = c1.Area + c2.Area; // combines the two radius before calculating the area...
             cnew.GetRadius();
+            
             return cnew;
         }
         public static Circle operator -(Circle c1, Circle c2)
