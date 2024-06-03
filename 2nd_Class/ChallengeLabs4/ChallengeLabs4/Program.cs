@@ -13,22 +13,25 @@ namespace ChallengeLabs4
         static string custName = "James";
         static int units = 800;
         static int[] Nums = {25,12,43,43,55,34,12,32,12};
+        static string bracks = "()[]{}";
+        static string bracks2 = "(f)[e]sss{g}";
+        static string bracks3 = "(f[e]ss}s{g}";
         //static Dictionary<int, int> Mode = new Dictionary<int, int>();
         static void Main(string[] args)
         {
-            String a = "TechBeamers";
-            String b = "TECHBEAMERS";
-            int c;
-            c = a.CompareTo(b); // -1 a precedes b, 0 a and b are the same, 1 a comes after b in sorting
-            Console.WriteLine(c);
+            
 
             Console.WriteLine();
             Console.WriteLine(ElectricBill.ElecBillGen(custID,custName,units));
             Console.WriteLine();
             TheMode.RepeatNums(Nums);
+            Console.WriteLine();
+            Console.WriteLine(StringChecker.BracketCheck(bracks)) ;
+            Console.WriteLine(StringChecker.BracketCheck(bracks2));
+            Console.WriteLine(StringChecker.BracketCheck(bracks3));
             Console.ReadKey();
 
-
+            
         }
         public int BuyChoco(int[] prices, int money)
         {

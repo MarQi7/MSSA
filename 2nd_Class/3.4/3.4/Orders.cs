@@ -15,7 +15,7 @@ namespace _3._4
     {
         List<Coffee> coffees = new List<Coffee>();
         private int phase = 0;
-        private int orders = 4;
+        private int orders = 1;
         private int[] choices = new int[5];
         public Orders()
         {
