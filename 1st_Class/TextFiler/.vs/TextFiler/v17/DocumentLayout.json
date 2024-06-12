@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\deand\\MSSA\\1st_Class\\TextFiler\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83A6B4D5-D436-49F8-8B92-0E9419349F29}|TextFiler\\TipCalculator.csproj|c:\\users\\deand\\mssa\\1st_class\\textfiler\\textfiler\\tipcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83A6B4D5-D436-49F8-8B92-0E9419349F29}|TextFiler\\TipCalculator.csproj|solutionrelative:textfiler\\tipcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{83A6B4D5-D436-49F8-8B92-0E9419349F29}|TextFiler\\TipCalculator.csproj|C:\\Users\\deand\\MSSA\\1st_Class\\TextFiler\\textfiler\\io.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83A6B4D5-D436-49F8-8B92-0E9419349F29}|TextFiler\\TipCalculator.csproj|solutionrelative:textfiler\\io.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A6B4D5-D436-49F8-8B92-0E9419349F29}|TextFiler\\TipCalculator.csproj|c:\\users\\deand\\mssa\\1st_class\\textfiler\\textfiler\\tipcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A6B4D5-D436-49F8-8B92-0E9419349F29}|TextFiler\\TipCalculator.csproj|solutionrelative:textfiler\\tipcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83A6B4D5-D436-49F8-8B92-0E9419349F29}|TextFiler\\TextFiler.csproj|C:\\Users\\deand\\MSSA\\1st_Class\\TextFiler\\textfiler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TipCalculator.cs",
               "DocumentMoniker": "C:\\Users\\deand\\MSSA\\1st_Class\\TextFiler\\TextFiler\\TipCalculator.cs",
               "RelativeDocumentMoniker": "TextFiler\\TipCalculator.cs",
               "ToolTip": "C:\\Users\\deand\\MSSA\\1st_Class\\TextFiler\\TextFiler\\TipCalculator.cs",
               "RelativeToolTip": "TextFiler\\TipCalculator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAeAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBYAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T22:01:22.703Z",
               "IsPinned": true,
@@ -44,19 +44,24 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "IO.cs",
               "DocumentMoniker": "C:\\Users\\deand\\MSSA\\1st_Class\\TextFiler\\TextFiler\\IO.cs",
               "RelativeDocumentMoniker": "TextFiler\\IO.cs",
               "ToolTip": "C:\\Users\\deand\\MSSA\\1st_Class\\TextFiler\\TextFiler\\IO.cs",
               "RelativeToolTip": "TextFiler\\IO.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAABCAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T19:52:29.676Z"
+              "WhenOpened": "2024-05-15T19:52:29.676Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

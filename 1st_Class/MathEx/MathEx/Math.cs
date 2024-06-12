@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MathEx
 {
-    internal class Math
+    public class Math
     {
         public static void FindMax(decimal[] nums)
         {
@@ -50,7 +50,7 @@ namespace MathEx
             }
             Console.WriteLine($"\t\tThe largest # of this array is: {max} @ index: {index}");
         }
-        public static int Add(int num1, int num2)
+        public static double Add(double num1, double num2)
         {
             return num1 + num2;
         }
@@ -58,7 +58,7 @@ namespace MathEx
         {
             return (num1 + num2) + num3;
         }
-        public static int Multiply(int num1, int num2)
+        public  static double Multiply(double num1, double num2)
         {
             return num1 * num2;
         }
@@ -114,6 +114,17 @@ namespace MathEx
             }
             Console.Write("\nThe array you created is: " + message);
             return x;
+        }
+
+        public static double Divide(double x, double y)
+        {
+            if (y==0)
+                return x;
+            else return x / y;
+        }
+        public static double Subtract(double x, double y)
+        {
+            return x - y;
         }
 
         static int parsed()
