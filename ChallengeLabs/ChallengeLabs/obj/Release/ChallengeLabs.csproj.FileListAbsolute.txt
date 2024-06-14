@@ -1,7 +1,0 @@
-C:\Users\deand\MSSA\ChallengeLabs\ChallengeLabs\bin\Release\ChallengeLabs.exe.config
-C:\Users\deand\MSSA\ChallengeLabs\ChallengeLabs\bin\Release\ChallengeLabs.exe
-C:\Users\deand\MSSA\ChallengeLabs\ChallengeLabs\bin\Release\ChallengeLabs.pdb
-C:\Users\deand\MSSA\ChallengeLabs\ChallengeLabs\obj\Release\ChallengeLabs.csproj.AssemblyReference.cache
-C:\Users\deand\MSSA\ChallengeLabs\ChallengeLabs\obj\Release\ChallengeLabs.csproj.CoreCompileInputs.cache
-C:\Users\deand\MSSA\ChallengeLabs\ChallengeLabs\obj\Release\ChallengeLabs.exe
-C:\Users\deand\MSSA\ChallengeLabs\ChallengeLabs\obj\Release\ChallengeLabs.pdb
