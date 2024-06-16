@@ -1,7 +1,0 @@
-C:\Users\deand\MSSA\Mod2\Decisions\bin\Debug\Decisions.exe.config
-C:\Users\deand\MSSA\Mod2\Decisions\bin\Debug\Decisions.exe
-C:\Users\deand\MSSA\Mod2\Decisions\bin\Debug\Decisions.pdb
-C:\Users\deand\MSSA\Mod2\Decisions\obj\Debug\Decisions.csproj.AssemblyReference.cache
-C:\Users\deand\MSSA\Mod2\Decisions\obj\Debug\Decisions.csproj.CoreCompileInputs.cache
-C:\Users\deand\MSSA\Mod2\Decisions\obj\Debug\Decisions.exe
-C:\Users\deand\MSSA\Mod2\Decisions\obj\Debug\Decisions.pdb

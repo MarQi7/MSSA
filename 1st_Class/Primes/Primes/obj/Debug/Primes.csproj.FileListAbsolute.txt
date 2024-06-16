@@ -1,7 +1,0 @@
-C:\Users\deand\MSSA\Primes\Primes\bin\Debug\Primes.exe.config
-C:\Users\deand\MSSA\Primes\Primes\bin\Debug\Primes.exe
-C:\Users\deand\MSSA\Primes\Primes\bin\Debug\Primes.pdb
-C:\Users\deand\MSSA\Primes\Primes\obj\Debug\Primes.csproj.AssemblyReference.cache
-C:\Users\deand\MSSA\Primes\Primes\obj\Debug\Primes.csproj.CoreCompileInputs.cache
-C:\Users\deand\MSSA\Primes\Primes\obj\Debug\Primes.exe
-C:\Users\deand\MSSA\Primes\Primes\obj\Debug\Primes.pdb
